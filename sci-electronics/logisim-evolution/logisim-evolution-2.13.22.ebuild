@@ -8,7 +8,7 @@ SRC_URI="https://github.com/reds-heig/logisim-evolution/archive/2.13.22.tar.gz"
 
 LICENSE="GPL-3.0"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="amd64 x86"
 IUSE="java nls"
 
 DEPEND=">=virtual/jdk-1.7"
