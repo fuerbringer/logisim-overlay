@@ -1,0 +1,13 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>logisim-evolution</name>
+    <description>Portage overlay for Logisim-Evolution. A digital logic designer and simulator.</description>
+    <homepage>https://github.com/fuerbringer/logisim-overlay</homepage>
+    <owner>
+      <email>severin@fsfe.org</email>
+      <name>Severin Fürbringer</name>
+    </owner>
+    <source type="git">https://github.com/fuerbringer/logisim-overlay.git</source>
+    <feed>https://github.com/fuerbringer/logisim-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
